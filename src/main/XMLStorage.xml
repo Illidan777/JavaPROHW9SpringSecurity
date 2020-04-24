@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml>
+    <users>
+        <email></email>
+        <login>admin</login>
+        <password>$2a$10$72x2JX37uPZSInYlyxV.peCz5HXUZsiq3KmqElTJUMDy.y5LuLNnC</password>
+        <phone></phone>
+        <role>ADMIN</role>
+    </users>
+    <users>
+        <email></email>
+        <login>user</login>
+        <password>$2a$10$ZgZ3QS3uQXn81lpBTpIs9e76.Rkdiu1l5CYU9CGZ5FP5G4Pqgpd16</password>
+        <phone></phone>
+        <role>USER</role>
+    </users>
+    <users>
+        <email></email>
+        <login>moderator</login>
+        <password>$2a$10$JQHD8euyH8xOxljpOj.ptOeu6shtgNnOIxBE4I8DuQU5WErcZAZPu</password>
+        <phone></phone>
+        <role>MODERATOR</role>
+    </users>
+    <users>
+        <email>7777@gmail.com</email>
+        <login>ilya24</login>
+        <password>$2a$10$FW0t1y6PiJiyboPP2PARaOK7TdtiRFyhzWWaTwbE/Tp4YxCo3VZI6</password>
+        <phone>+380509999999</phone>
+        <role>USER</role>
+    </users>
+</xml>
